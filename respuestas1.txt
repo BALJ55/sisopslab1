@@ -1,0 +1,4 @@
+a) por que pid es un identificador unico autoincrementable
+b) por que son dos procesos distintos
+c) por que son instancias clon del mismo proceso
+d) sistemmd, es el proceso root, encargado de lanzar los siguientes procesos

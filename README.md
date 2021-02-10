@@ -26,4 +26,4 @@
 
 **¿Por qué las llamadas de sistema existentes como reado forkse pueden llamar por nombre?** - 
 
-![Prueba de funcionamiento](changeme)
+![Prueba de funcionamiento](https://github.com/Byronamh/sisopslab1/blob/master/prueba-re-recompilado.jpeg)
